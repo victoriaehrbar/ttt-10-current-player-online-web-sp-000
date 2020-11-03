@@ -5,6 +5,6 @@ def turn_count (board)
   board.each do |token|
     binding.pry
     if token == "O" || "X"
-      
+    end
   end
 end
