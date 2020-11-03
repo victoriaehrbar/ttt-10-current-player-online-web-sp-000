@@ -6,6 +6,6 @@ def turn_count (board)
     binding.pry
     if token == "O" || token == "X"
     end
-    counter =+ 1
+    counter += 1
   end
 end
